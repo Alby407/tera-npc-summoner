@@ -1,16 +1,15 @@
 {
-    "author": "<font color='#00FFFF'>Salchy</font>",
-    "description": "Salchy NPC Summomer",
+    "author": "Alby407",
+    "description": "NPC Summoner",
     "disableAutoUpdate": false,
     "disabled": false,
-    "donationUrl": "",
-    "name": "salchysummoner",
+    "name": "Alby407",
     "options": {
-        "niceName": "<font color='#FDD017'>Salchy Summoner</font>",
-        "guiName": "<font color='#FDD017'>Salchy Summoner</font>",
+        "niceName": "NPC Summoner",
+        "guiName": "npc_summoner",
         "reloadable": true
     },
-    "servers": ["https://raw.githubusercontent.com/salchy-tera/tera-npc-summoner/master/"],
-    "supportUrl": "https://github.com/salchy-tera/tera-npc-summoner/issues",
-    "version": "<font color='#00FFFF'>1.0.0</font>"
+    "servers": ["https://raw.githubusercontent.com/alby407/tera-npc-summoner/master/"],
+    "supportUrl": "https://github.com/alby407/tera-npc-summoner/issues",
+    "version": "1.0.0"
 }
