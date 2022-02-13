@@ -1,9 +1,9 @@
 {
     "author": "Alby407",
+    "name": "NPC Summoner",
     "description": "NPC Summoner",
     "disableAutoUpdate": false,
     "disabled": false,
-    "name": "Alby407",
     "options": {
         "niceName": "NPC Summoner",
         "guiName": "npc_summoner",
